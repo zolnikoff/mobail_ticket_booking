@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicketBooking</string>
+    <string name="exit_btn">Выйти</string>
+</resources>
